@@ -21,7 +21,7 @@ git clone git@github.com:riguron/ExchangePrices.git
 cd ExchangePrices
 ```
 
-Then run using Spring Boot Maven Plugin, specifying the exhcnage name (either ```liquid``` or ```bitmex```):
+Then run using Spring Boot Maven Plugin, specifying the exchange name (either ```liquid``` or ```bitmex```):
 
 ```bash
 mvn spring-boot:run -Dspring-boot.run.profiles=$EXCHANGE_NAME
