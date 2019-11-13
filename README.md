@@ -1,4 +1,4 @@
-# ExhcnagePrices
+# ExchangePrices
 
 Test assignment for Java Developer position at Profluent Group
 
