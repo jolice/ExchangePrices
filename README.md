@@ -17,7 +17,7 @@ Test assignment for Java Developer position at Profluent Group
 First, clone the project:
 
 ```bash
-git clone git@github.com:riguron/ExhcnagePrices.git
+git clone git@github.com:riguron/ExchangePrices.git
 cd ExchangePrices
 ```
 
