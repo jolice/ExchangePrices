@@ -1,0 +1,7 @@
+websocket:
+    endpoint: wss://tap.liquid.com/app/LIQUID?protocol=7&version=4.4.0&flash=false
+payload:
+    length:
+        max: 1024
+pairs: btcusd_1,btcjpy_5
+

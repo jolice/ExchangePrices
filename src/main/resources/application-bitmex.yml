@@ -1,0 +1,6 @@
+websocket:
+    endpoint: wss://www.bitmex.com/realtime
+payload:
+    length:
+       max: 262144
+pairs: ETHUSD,XBTUSD

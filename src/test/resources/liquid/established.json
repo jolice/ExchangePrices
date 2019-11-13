@@ -1,0 +1,7 @@
+{
+  "data": {
+    "activity_timeout": "120",
+    "socket_id": "0934851097.1335996680"
+  },
+  "event": "pusher_internal:subscription_succeeded"
+}

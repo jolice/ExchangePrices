@@ -1,0 +1,30 @@
+{
+  "table": "trade",
+  "action": "insert",
+  "data": [
+    {
+      "timestamp": "2019-11-01T11:44:11.159Z",
+      "symbol": "XBTUSD",
+      "side": "Sell",
+      "size": 12756,
+      "price": 9180.5,
+      "tickDirection": "MinusTick",
+      "trdMatchID": "60083c20-77fc-1027-7c71-bf1717a46043",
+      "grossValue": 138951108,
+      "homeNotional": 1.38951108,
+      "foreignNotional": 12756
+    },
+    {
+      "timestamp": "2019-11-01T11:44:11.159Z",
+      "symbol": "XBTUSD",
+      "side": "Sell",
+      "size": 20000,
+      "price": 9182,
+      "tickDirection": "ZeroMinusTick",
+      "trdMatchID": "5bb0c5af-812b-ce0d-c00e-a5ecf32776e7",
+      "grossValue": 217860000,
+      "homeNotional": 2.1786,
+      "foreignNotional": 20000
+    }
+  ]
+}

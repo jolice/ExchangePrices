@@ -1,0 +1,5 @@
+{
+  "channel": "product_cash_btcusd_1",
+  "data": "{\"base_currency\":\"BTC\",\"btc_minimum_withdraw\":null,\"cfd_enabled\":false,\"code\":\"CASH\",\"currency\":\"USD\",\"currency_pair_code\":\"BTCUSD\",\"disabled\":false,\"fiat_minimum_withdraw\":null,\"high_market_ask\":\"9300.0\",\"id\":\"1\",\"indicator\":1,\"last_event_timestamp\":\"1572617045.046225\",\"last_price_24h\":\"9261.52058\",\"last_traded_price\":\"9140.88\",\"last_traded_quantity\":\"0.08\",\"low_market_bid\":\"9059.0\",\"margin_enabled\":false,\"market_ask\":\"9149.064\",\"market_bid\":\"9139.75007\",\"name\":\" CASH Trading\",\"product_type\":\"CurrencyPair\",\"pusher_channel\":\"product_cash_btcusd_1\",\"quoted_currency\":\"USD\",\"symbol\":\"$\",\"volume_24h\":\"635.52822828\"}",
+  "event": "updated"
+}

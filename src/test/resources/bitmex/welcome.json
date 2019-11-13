@@ -1,0 +1,9 @@
+{
+  "info": "Welcome to the BitMEX Realtime API.",
+  "version": "2019-10-25T19:49:28.000Z",
+  "timestamp": "2019-11-01T09:19:04.408Z",
+  "docs": "https://www.bitmex.com/app/wsAPI",
+  "limit": {
+    "remaining": 39
+  }
+}

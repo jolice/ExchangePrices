@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "subscribe": "trade:XBTUSD",
+  "request": {
+    "op": "subscribe",
+    "args": [
+      "trade:XBTUSD",
+      "trade:ETHUSD"
+    ]
+  }
+}
